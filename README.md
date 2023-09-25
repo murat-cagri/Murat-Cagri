@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Murat-Cagri
 - 👀 I’m interested in Mathematics, computers, martial arts. 
-- 🌱 I’m currently learning CS and it's implications as I'm a freshman
+- 🌱 I am a junior CS student
 - 💞️ I’m looking to collaborate with other people
 - 📫 How to reach me cagri.kara@ug.bilkent.edu.tr
 
